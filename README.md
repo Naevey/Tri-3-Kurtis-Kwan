@@ -2,7 +2,7 @@
 
 
 # <u> Welcome to Kurtis Kwan's Github Page </u>
-All things CSP related to Kurtis Kwan
+All things CSA related to Kurtis Kwan
 
 ## <u>GitHub Pages</u>
 
