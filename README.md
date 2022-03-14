@@ -1,6 +1,6 @@
 {% include navbar.html %}
 
-
+[Issues/Review Tickets](https://github.com/Naevey/Tri-3-Kurtis-Kwan/issues/assigned/Naevey)
 # <u> Welcome to Kurtis Kwan's Github Page </u>
 All things CSP related to Kurtis Kwan
 
