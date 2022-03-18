@@ -6,7 +6,8 @@
 # Data Structures
 ## Code
 ## [Repl](https://replit.com/@charlesElipton/Tri-3-Kurtis-Kwan#.replit)
-What I learned this week
+
+## What I learned this week/Code Snippets
 Week 1:
   Using for, while loops. Also using Recursive loops. Python dictionaries, f string for print, 
   ```
