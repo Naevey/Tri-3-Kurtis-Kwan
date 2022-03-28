@@ -9,7 +9,7 @@
 
 ## What I learned this week/Code Snippets
 Week 2:
-  Using OOP form, specifically with classes. It is a little confusing, but I think that I am getting the hang of it. 
+  Using OOP form, specifically with classes. It is a little confusing, but I think that I am getting the hang of it. A little more of Regular Expressions.
   ```
   class Triangle: 
     def __init__(self, n): # defines variables
