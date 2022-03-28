@@ -8,6 +8,23 @@
 ## [Repl](https://replit.com/@charlesElipton/Tri-3-Kurtis-Kwan#.replit)
 
 ## What I learned this week/Code Snippets
+Week 2:
+  Using OOP form, specifically with classes. It is a little confusing, but I think that I am getting the hang of it. 
+  ```
+  class Triangle: 
+    def __init__(self, n): # defines variables
+       self.n = n
+       self.triangle = self.triangular()
+    def triangular(self):
+        number = 0
+        for i in range(self.n):
+          number = number + i
+          print(" ", number, end="")
+        return number
+    def __str__(self):
+        return (f"\nThe triangular of {self.n} is {self.triangle}")
+ ```
+
 Week 1:
   Using for, while loops. Also using Recursive loops. Python dictionaries, f string for print, 
   ```
