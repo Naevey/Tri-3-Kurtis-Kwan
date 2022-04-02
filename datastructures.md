@@ -8,6 +8,8 @@
 ## [Repl](https://replit.com/@charlesElipton/Tri-3-Kurtis-Kwan#.replit)
 
 ## What I learned this week/Code Snippets
+Week 3:
+  Using Beautiful Soup to webscrape. In the crossover, I used it to pull table rows. 
 Week 2:
   Using OOP form, specifically with classes. It is a little confusing, but I think that I am getting the hang of it. A little more of Regular Expressions.
   ```
