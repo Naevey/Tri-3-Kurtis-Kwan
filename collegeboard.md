@@ -3,6 +3,6 @@
 
 
 # College Board 
-## [Create Task](https://github.com/MadCacti/PARK-tech/wiki/Create-Task-Written-Answer-and-Video---Kurtis-Kwan)
+## [Create Task](https://naevey.github.io/Tri-3-Kurtis-Kwan/pages/cbwrittenresponse)
 ## [Runtime](https://github.com/MadCacti/PARK-tech)
     
