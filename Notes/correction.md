@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 
 Corrections
 </br>Q10: I chose B because I didn’t really read the answer choices clearly. I was thinking of someone getting access into the database, but I didn’t read the answer choice clearly. 
