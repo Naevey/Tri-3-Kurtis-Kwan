@@ -16,6 +16,6 @@ Corrections
 ![image](https://user-images.githubusercontent.com/28553165/164775135-1b93bf62-b37a-491e-ba44-0d1f766ef72b.png)
 
 Q14:I chose B because I read the graph wrong. It was actually increasing by 10, not 100.
-Q22: I thought that IPv6 was neither shorter than IPv4, made addresses easier, or allow more addresses. So I chose the next best one. However, I did not know what IPv6 and IPv4 addresses were. 
-Q25: I chose B because I thought that it would benefit users more, because they would be paired with people similar to them. However, C is right because users will encourage others to excercise with them.
-Q30: I converted the binary wrong.
+</br>Q22: I thought that IPv6 was neither shorter than IPv4, made addresses easier, or allow more addresses. So I chose the next best one. However, I did not know what IPv6 and IPv4 addresses were. 
+</br>Q25: I chose B because I thought that it would benefit users more, because they would be paired with people similar to them. However, C is right because users will encourage others to excercise with them.
+</br>Q30: I converted the binary wrong.
