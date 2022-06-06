@@ -11,6 +11,7 @@ All things CSP related to Kurtis Kwan
 ### [Link to Data Structures project Page](https://naevey.github.io/Tri-3-Kurtis-Kwan/datastructures)
 ### [Link to Collegeboard/Create Task Page](https://naevey.github.io/Tri-3-Kurtis-Kwan/collegeboard)
 
+[Final Page](https://naevey.github.io/Tri-3-Kurtis-Kwan/finalticket)
 # <u> Team Repository</u>
 
 ### [Repo](https://github.com/NinjaBreadLord/grup-grass)
